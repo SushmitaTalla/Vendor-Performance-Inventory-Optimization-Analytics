@@ -1,1 +1,1 @@
-# Vendor-Performance-Inventory-Optimization-Analytics
+# Vendor-Performance-and-Inventory-Optimization-Analytics
